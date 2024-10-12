@@ -8,6 +8,7 @@ Data Collection: Gathered data from various reliable websites to ensure comprehe
 Data Loading and Cleaning: The collected data was imported into Power BI.
 Cleaned the data by Removing unnecessary columns and duplicates. Handling missing values. Changing data types as needed.
 Data Analysis: Utilized DAX functions, measures, and calculated columns to perform detailed analysis.
+
 🎖️Key Metrics Analyzed:
 
 Total Sales: : $1.20 M
@@ -21,6 +22,7 @@ Average Customer Rating: 3.9
 Low-fat items make up 64.6% of total sales, significantly outperforming regular items.
 The top-selling categories are Fruits and Vegetables, and Snack Foods, each generating ₹0.18M in sales.
 Stores established in 2018 have generated the highest revenue at $205K.
+
 🎖️Geographical and Store Size Analysis:
 
 Tier 3 cities are leading in sales performance.
