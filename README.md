@@ -15,6 +15,7 @@ Total Sales: : $1.20 M
 Average Sales: $141
 Number of Items Sold: 8,523
 Average Customer Rating: 3.9
+
 ✅Insights:
 
 🎖️Sales Performance:
