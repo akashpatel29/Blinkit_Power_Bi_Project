@@ -6,6 +6,7 @@ Steps include:
 
 Data Collection: Gathered data from various reliable websites to ensure comprehensive coverage of sales information.
 Data Loading and Cleaning: The collected data was imported into Power BI.
+
 Cleaned the data by Removing unnecessary columns and duplicates. Handling missing values. Changing data types as needed.
 Data Analysis: Utilized DAX functions, measures, and calculated columns to perform detailed analysis.
 
