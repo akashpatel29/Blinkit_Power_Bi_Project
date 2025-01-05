@@ -19,7 +19,7 @@ Average Customer Rating: 3.9
 
 ✅Insights:
 
-🎖️Sales Performance:
+🎖️Sales Performance:-
 
 Low-fat items make up 64.6% of total sales, significantly outperforming regular items.
 The top-selling categories are Fruits and Vegetables, and Snack Foods, each generating ₹0.18M in sales.
