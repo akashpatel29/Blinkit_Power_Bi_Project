@@ -1,4 +1,4 @@
-##Project Objective:
+##Project Objective::
 
 This Power BI dashboard aims to analyze the dataset and generate a comprehensive report to facilitate strategic decision-making for stakeholders. The goal is to provide real-time insights into various matrices such as sales performance, product distribution, and customer feedback on Blinkit.
 
