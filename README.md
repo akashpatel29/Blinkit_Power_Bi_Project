@@ -2,7 +2,7 @@
 
 This Power BI dashboard aims to analyze the dataset and generate a comprehensive report to facilitate strategic decision-making for stakeholders. The goal is to provide real-time insights into various matrices such as sales performance, product distribution, and customer feedback on Blinkit.
 
-Steps include:
+Steps include:-
 
 Data Collection: Gathered data from various reliable websites to ensure comprehensive coverage of sales information.
 Data Loading and Cleaning: The collected data was imported into Power BI.
