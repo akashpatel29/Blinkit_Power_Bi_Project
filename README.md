@@ -25,7 +25,7 @@ Low-fat items make up 64.6% of total sales, significantly outperforming regular 
 The top-selling categories are Fruits and Vegetables, and Snack Foods, each generating ₹0.18M in sales.
 Stores established in 2018 have generated the highest revenue at $205K.
 
-🎖️Geographical and Store Size Analysis:
+🎖️Geographical and Store Size Analysis:-
 
 Tier 3 cities are leading in sales performance.
 Medium-sized stores contribute the highest sales at 42.3% of total sales, followed by small-sized stores at 37%.
