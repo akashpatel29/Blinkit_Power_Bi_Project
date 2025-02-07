@@ -30,7 +30,7 @@ Stores established in 2018 have generated the highest revenue at $205K.
 Tier 3 cities are leading in sales performance.
 Medium-sized stores contribute the highest sales at 42.3% of total sales, followed by small-sized stores at 37%.
 
-🎖️Recommendations:
+🎖️Recommendations:-
 
 Increase inventory and marketing efforts for low-fat items and top-selling categories like Fruits, Vegetables, and Snacks to leverage their popularity.
 Focus on expanding and supporting stores established in 2018 as they show higher revenue potential.
